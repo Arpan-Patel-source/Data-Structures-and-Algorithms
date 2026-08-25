@@ -4,7 +4,7 @@ A structured journey through Data Structures & Algorithms — from fundamentals 
 
 This repository contains my regular DSA practice, handwritten-problem conversions, LeetCode problems, contest problems, notes, solutions, mistakes, and learnings.
 
-The goal is simple: build strong problem-solving ability through consistent practice and gradually progress from core concepts to placement-level and PBC-level DSA.
+The goal is simple: build strong problem-solving ability through consistent practice and gradually progress from core concepts to placement-level DSA.
 
 ---
 
