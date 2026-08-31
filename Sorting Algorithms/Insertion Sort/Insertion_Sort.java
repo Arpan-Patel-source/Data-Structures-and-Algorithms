@@ -5,7 +5,7 @@ public class Insertion_Sort
         int i;
         for(i=0; i<n; i++)
         {
-            System.out.println(" "+x[i]);
+            System.out.print(" "+x[i]);
         }
         System.out.println();
         System.out.println();
